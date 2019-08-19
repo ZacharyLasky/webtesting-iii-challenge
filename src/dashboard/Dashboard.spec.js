@@ -14,12 +14,3 @@ describe('<Dashboard />', () => {
   });
 });
 
-// describe('asyncFunc', () => {
-//   it('eventually resolves to success', () => {
-//     const resolvedValue = null;
-//     asyncFunc().then(res => {
-//       resolvedValue = res
-//       expect(resolvedValue).toEqual(expected)
-//     })
-//   })
-// })
